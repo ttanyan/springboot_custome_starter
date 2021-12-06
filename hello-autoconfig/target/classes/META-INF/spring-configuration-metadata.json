@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "hello",
+      "type": "com.tan.HelloProperties",
+      "sourceType": "com.tan.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hello.age",
+      "type": "java.lang.String",
+      "sourceType": "com.tan.HelloProperties"
+    },
+    {
+      "name": "hello.name",
+      "type": "java.lang.String",
+      "sourceType": "com.tan.HelloProperties"
+    }
+  ],
+  "hints": []
+}
